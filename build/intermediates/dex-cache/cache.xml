@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.0.1_983d41a4cf2051ec6611bea30eadca0145f2f328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_6e8f2255acf890259aed52b1469d8a1001638557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/gson-2.7_21702fed4b2dc38912ff17a2fb474e283d946f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/okio-1.13.0_c1b19b0403e22dbd1d9a989258d30d9f5f21a748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_a769ef7f6ae99aeed4c7392c821f2ddc7bcfef54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_4d4ce56ce19633d0a8b66bd206f793dcafac5584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_ecd0042b79f19409cebabfd986329a9630e572e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.3.0/f436637f9500ab5b8bc32afe556373180894b4a5/adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/adapter-rxjava2-2.3.0_80909f46fdddfdc0af93d35c7b792a235d40907a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_81158651748998d5911b1ccb48794946fa196742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_e1b20cd70dc4a908a999a373a597f2407a8a1dd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.2-4/e6a7403299b8f3126e3a1576c02e3f07ae5af6fa/kotlin-stdlib-jre7-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e6a7403299b8f3126e3a1576c02e3f07ae5af6fa">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-jre7-1.1.2-4_a159dfccef88bfcb885a8ad13ea1f1b4879efdfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_8d1e0b7e44119438000f0ddcfda731952dd62baf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_025b0f85e411e5aa78def4820c8fd326c67a4f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_b5d46050175083ac4388f1aee12d5a094a59963e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_f1e2d6532dc11fa59537f09b7f468e96c6f6e96a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_8bc63e953c8237edd20a7928de7bf193f14e8f15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/rxjava-2.0.1_732c54a6dc42bcea21f7ccaee51cd2cc178ed224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_04ea44337bb150058d9532e12a3ce2009863d607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.2-4/3f5f1498bdbb9611cb1413f794b3a3a5a6edef34/kotlin-stdlib-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f5f1498bdbb9611cb1413f794b3a3a5a6edef34">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.2-4_2d58e796b1d3a0462c9b81839371ae4765a0af02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_c133acc779984c8efabf85d35d04bcd056d0ff61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_a046fabdd13c88fb8d9c5e80346af0ce9bd89b55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/annotations-13.0_3b55ac87de03dac6b7037e0d2efd9e50a6b67add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramesh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/ramesh/Desktop/retrofit-kotlin-sample/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_f49b9b1f0ba56d1065821c045cc2410c593c74cb.jar" />
+    </item>
+
+</items>
